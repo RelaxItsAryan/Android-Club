@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project is a simple and responsive website built using **HTML** and **CSS** for the **Android Club Recruitment at VIT Bhopal University**. The website highlights club information, recruitment details, eligibility criteria, and showcases the club’s technical culture.
+This project is a simple and responsive website built using **HTML** **CSS** and **JS** for the **Android Club Recruitment at VIT Bhopal University**. The website highlights club information, recruitment details, eligibility criteria, and showcases the club’s technical culture.
 
 ---
 
@@ -22,6 +22,7 @@ The goal of this website is to:
 
 * HTML5
 * CSS3
+* Script.js
 
 No frameworks or libraries were used to maintain simplicity and full control over the UI.
 
@@ -61,7 +62,7 @@ project-folder/
 1. Download or clone the repository.
 2. Make sure the folder structure is correct.
 3. Open `index.html` in any browser.
-4. Customize or edit the `style.css` file as needed.
+4. Customize or edit the `style.css` and `script.js` file as needed.
 
 ---
 
@@ -74,7 +75,7 @@ You can modify:
 * Background animations
 * Section layouts
 
-All styles are controlled from **style.css**.
+All styles are controlled from **style.css** and **script.js**.
 
 ---
 
